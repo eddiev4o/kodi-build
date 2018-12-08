@@ -1,0 +1,2 @@
+/usr/bin/ar qc commons.a  CMakeFiles/commons.dir/Exception.cpp.o CMakeFiles/commons.dir/ilog.cpp.o
+/usr/bin/ranlib commons.a

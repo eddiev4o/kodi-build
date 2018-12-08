@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/crossguid"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/crossguid.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/crossguid-complete.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-install.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-mkdir.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-download.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-update.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-patch.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-configure.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"crossguid"
+		],
+		"name" : "crossguid"
+	}
+}

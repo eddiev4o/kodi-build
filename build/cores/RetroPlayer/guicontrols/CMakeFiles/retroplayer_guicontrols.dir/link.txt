@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_guicontrols.a  CMakeFiles/retroplayer_guicontrols.dir/GUIGameControl.cpp.o CMakeFiles/retroplayer_guicontrols.dir/GUIRenderSettings.cpp.o
+/usr/bin/ranlib retroplayer_guicontrols.a

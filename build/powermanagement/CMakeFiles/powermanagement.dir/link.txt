@@ -1,0 +1,2 @@
+/usr/bin/ar qc powermanagement.a  CMakeFiles/powermanagement.dir/DPMSSupport.cpp.o CMakeFiles/powermanagement.dir/IPowerSyscall.cpp.o CMakeFiles/powermanagement.dir/PowerManager.cpp.o
+/usr/bin/ranlib powermanagement.a

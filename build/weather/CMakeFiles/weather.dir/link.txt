@@ -1,0 +1,2 @@
+/usr/bin/ar qc weather.a  CMakeFiles/weather.dir/GUIWindowWeather.cpp.o CMakeFiles/weather.dir/WeatherJob.cpp.o CMakeFiles/weather.dir/WeatherManager.cpp.o
+/usr/bin/ranlib weather.a

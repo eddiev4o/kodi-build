@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi/xbmc/cores/AudioEngine/Utils/AEChannelData.h
+
+/home/eddie/Documents/kodi/xbmc/cores/RetroPlayer/audio/AudioTranslator.cpp
+AudioTranslator.h
+/home/eddie/Documents/kodi/xbmc/cores/RetroPlayer/audio/AudioTranslator.h
+
+/home/eddie/Documents/kodi/xbmc/cores/RetroPlayer/audio/AudioTranslator.h
+cores/RetroPlayer/streams/RetroPlayerStreamTypes.h
+/home/eddie/Documents/kodi/xbmc/cores/RetroPlayer/audio/cores/RetroPlayer/streams/RetroPlayerStreamTypes.h
+cores/AudioEngine/Utils/AEChannelData.h
+/home/eddie/Documents/kodi/xbmc/cores/RetroPlayer/audio/cores/AudioEngine/Utils/AEChannelData.h
+
+/home/eddie/Documents/kodi/xbmc/cores/RetroPlayer/streams/RetroPlayerStreamTypes.h
+array
+-
+memory
+-
+

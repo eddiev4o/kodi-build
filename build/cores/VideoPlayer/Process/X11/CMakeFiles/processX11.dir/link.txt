@@ -1,0 +1,2 @@
+/usr/bin/ar qc processX11.a  CMakeFiles/processX11.dir/ProcessInfoX11.cpp.o
+/usr/bin/ranlib processX11.a

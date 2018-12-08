@@ -1,0 +1,2 @@
+/usr/bin/ar qc network_upnp.a  CMakeFiles/network_upnp.dir/UPnP.cpp.o CMakeFiles/network_upnp.dir/UPnPInternal.cpp.o CMakeFiles/network_upnp.dir/UPnPPlayer.cpp.o CMakeFiles/network_upnp.dir/UPnPRenderer.cpp.o CMakeFiles/network_upnp.dir/UPnPServer.cpp.o CMakeFiles/network_upnp.dir/UPnPSettings.cpp.o
+/usr/bin/ranlib network_upnp.a

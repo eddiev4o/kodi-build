@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_joystick_keymaps.a  CMakeFiles/input_joystick_keymaps.dir/KeyHandler.cpp.o CMakeFiles/input_joystick_keymaps.dir/KeymapHandler.cpp.o CMakeFiles/input_joystick_keymaps.dir/KeymapHandling.cpp.o
+/usr/bin/ranlib input_joystick_keymaps.a

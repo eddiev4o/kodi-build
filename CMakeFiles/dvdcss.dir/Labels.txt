@@ -1,0 +1,14 @@
+# Target labels
+ dvdcss
+# Source files and their labels
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdcss
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdcss.rule
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdcss-complete.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-install.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-mkdir.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-download.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-update.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-patch.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-configure.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-build.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-autoreconf.rule

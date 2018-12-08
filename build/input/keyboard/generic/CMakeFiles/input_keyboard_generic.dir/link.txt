@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_keyboard_generic.a  CMakeFiles/input_keyboard_generic.dir/KeyboardInputHandling.cpp.o
+/usr/bin/ranlib input_keyboard_generic.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_playback.a  CMakeFiles/retroplayer_playback.dir/GameLoop.cpp.o CMakeFiles/retroplayer_playback.dir/ReversiblePlayback.cpp.o
+/usr/bin/ranlib retroplayer_playback.a

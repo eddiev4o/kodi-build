@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_streams.a  CMakeFiles/retroplayer_streams.dir/RetroPlayerAudio.cpp.o CMakeFiles/retroplayer_streams.dir/RetroPlayerStreamTypes.cpp.o CMakeFiles/retroplayer_streams.dir/RetroPlayerVideo.cpp.o CMakeFiles/retroplayer_streams.dir/RPStreamManager.cpp.o
+/usr/bin/ranlib retroplayer_streams.a

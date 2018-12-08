@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_savestates.a  CMakeFiles/retroplayer_savestates.dir/SavestateDatabase.cpp.o CMakeFiles/retroplayer_savestates.dir/SavestateFlatBuffer.cpp.o CMakeFiles/retroplayer_savestates.dir/SavestateUtils.cpp.o
+/usr/bin/ranlib retroplayer_savestates.a

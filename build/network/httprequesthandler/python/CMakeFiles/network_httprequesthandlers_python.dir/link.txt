@@ -1,0 +1,2 @@
+/usr/bin/ar qc network_httprequesthandlers_python.a  CMakeFiles/network_httprequesthandlers_python.dir/HTTPPythonInvoker.cpp.o CMakeFiles/network_httprequesthandlers_python.dir/HTTPPythonWsgiInvoker.cpp.o
+/usr/bin/ranlib network_httprequesthandlers_python.a

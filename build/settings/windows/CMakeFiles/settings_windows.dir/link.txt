@@ -1,0 +1,2 @@
+/usr/bin/ar qc settings_windows.a  CMakeFiles/settings_windows.dir/GUIControlSettings.cpp.o CMakeFiles/settings_windows.dir/GUIWindowSettings.cpp.o CMakeFiles/settings_windows.dir/GUIWindowSettingsCategory.cpp.o CMakeFiles/settings_windows.dir/GUIWindowSettingsScreenCalibration.cpp.o
+/usr/bin/ranlib settings_windows.a

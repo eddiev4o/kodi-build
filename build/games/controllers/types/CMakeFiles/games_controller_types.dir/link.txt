@@ -1,0 +1,2 @@
+/usr/bin/ar qc games_controller_types.a  CMakeFiles/games_controller_types.dir/ControllerGrid.cpp.o CMakeFiles/games_controller_types.dir/ControllerTree.cpp.o
+/usr/bin/ranlib games_controller_types.a

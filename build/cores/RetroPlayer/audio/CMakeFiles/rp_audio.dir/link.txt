@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp_audio.a  CMakeFiles/rp_audio.dir/AudioTranslator.cpp.o
+/usr/bin/ranlib rp_audio.a

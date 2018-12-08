@@ -1,0 +1,2 @@
+/usr/bin/ar qc addons_settings.a  CMakeFiles/addons_settings.dir/AddonSettings.cpp.o CMakeFiles/addons_settings.dir/GUIDialogAddonSettings.cpp.o CMakeFiles/addons_settings.dir/SettingUrlEncodedString.cpp.o
+/usr/bin/ranlib addons_settings.a

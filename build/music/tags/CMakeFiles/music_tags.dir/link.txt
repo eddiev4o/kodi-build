@@ -1,0 +1,2 @@
+/usr/bin/ar qc music_tags.a  CMakeFiles/music_tags.dir/MusicInfoTag.cpp.o CMakeFiles/music_tags.dir/MusicInfoTagLoaderCDDA.cpp.o CMakeFiles/music_tags.dir/MusicInfoTagLoaderDatabase.cpp.o CMakeFiles/music_tags.dir/MusicInfoTagLoaderFactory.cpp.o CMakeFiles/music_tags.dir/MusicInfoTagLoaderFFmpeg.cpp.o CMakeFiles/music_tags.dir/MusicInfoTagLoaderShn.cpp.o CMakeFiles/music_tags.dir/ReplayGain.cpp.o CMakeFiles/music_tags.dir/TagLibVFSStream.cpp.o CMakeFiles/music_tags.dir/TagLoaderTagLib.cpp.o
+/usr/bin/ranlib music_tags.a

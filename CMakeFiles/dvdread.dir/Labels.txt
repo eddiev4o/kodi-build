@@ -1,0 +1,14 @@
+# Target labels
+ dvdread
+# Source files and their labels
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdread
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdread.rule
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdread-complete.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-install.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-mkdir.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-download.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-update.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-patch.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-configure.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-build.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-autoreconf.rule

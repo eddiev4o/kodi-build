@@ -1,0 +1,14 @@
+# Target labels
+ libcpluff
+# Source files and their labels
+/home/eddie/Documents/kodi-build/CMakeFiles/libcpluff
+/home/eddie/Documents/kodi-build/CMakeFiles/libcpluff.rule
+/home/eddie/Documents/kodi-build/CMakeFiles/libcpluff-complete.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-install.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-mkdir.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-download.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-update.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-patch.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-configure.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-build.rule
+/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-autoreconf.rule

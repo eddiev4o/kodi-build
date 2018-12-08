@@ -1,0 +1,2 @@
+/usr/bin/ar qc pvr_recordings.a  CMakeFiles/pvr_recordings.dir/PVRRecording.cpp.o CMakeFiles/pvr_recordings.dir/PVRRecordings.cpp.o CMakeFiles/pvr_recordings.dir/PVRRecordingsPath.cpp.o
+/usr/bin/ranlib pvr_recordings.a

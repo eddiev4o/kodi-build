@@ -1,0 +1,2 @@
+/usr/bin/ar qc pvr_channels.a  CMakeFiles/pvr_channels.dir/PVRChannel.cpp.o CMakeFiles/pvr_channels.dir/PVRChannelGroup.cpp.o CMakeFiles/pvr_channels.dir/PVRChannelGroupInternal.cpp.o CMakeFiles/pvr_channels.dir/PVRChannelGroups.cpp.o CMakeFiles/pvr_channels.dir/PVRChannelGroupsContainer.cpp.o CMakeFiles/pvr_channels.dir/PVRChannelNumber.cpp.o CMakeFiles/pvr_channels.dir/PVRRadioRDSInfoTag.cpp.o
+/usr/bin/ranlib pvr_channels.a

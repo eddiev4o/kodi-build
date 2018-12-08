@@ -1,0 +1,2 @@
+/usr/bin/ar qc interfaces.a  CMakeFiles/interfaces.dir/AnnouncementManager.cpp.o
+/usr/bin/ranlib interfaces.a

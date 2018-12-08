@@ -1,0 +1,1 @@
+/usr/bin/cc -DPLATFORM_SETTINGS_FILE=x11.xml -Wall -O3 -DNDEBUG   -fuse-ld=gold CMakeFiles/kodi-xrandr.dir/xbmc-xrandr.c.o  -o kodi-xrandr /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so -lm /usr/lib/x86_64-linux-gnu/libXrandr.so 

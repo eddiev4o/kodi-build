@@ -1,0 +1,14 @@
+prefix=/home/eddie/Documents/kodi-build/build
+exec_prefix=${prefix}
+libdir=/home/eddie/Documents/kodi-build/build/lib
+includedir=/home/eddie/Documents/kodi-build/build/include
+
+Name: libpostproc
+Description: FFmpeg postprocessing library
+Version: 55.1.100
+Requires: libavutil >= 56.14.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lpostproc -lm
+Libs.private: 
+Cflags: -I${includedir}

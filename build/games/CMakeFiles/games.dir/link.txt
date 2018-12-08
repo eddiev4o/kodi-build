@@ -1,0 +1,2 @@
+/usr/bin/ar qc games.a  CMakeFiles/games.dir/GameServices.cpp.o CMakeFiles/games.dir/GameSettings.cpp.o CMakeFiles/games.dir/GameUtils.cpp.o
+/usr/bin/ranlib games.a

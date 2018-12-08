@@ -1,0 +1,2 @@
+/usr/bin/ar qc generic_interface.a  CMakeFiles/generic_interface.dir/ILanguageInvoker.cpp.o CMakeFiles/generic_interface.dir/LanguageInvokerThread.cpp.o CMakeFiles/generic_interface.dir/ScriptInvocationManager.cpp.o
+/usr/bin/ranlib generic_interface.a

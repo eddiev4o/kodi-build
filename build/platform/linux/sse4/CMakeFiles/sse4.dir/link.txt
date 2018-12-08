@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -DPLATFORM_SETTINGS_FILE=x11.xml -Wall -O3 -DNDEBUG -s  -fuse-ld=gold -fuse-ld=gold -shared -Wl,-soname,libsse4-x86_64-linux.so -o ../../../../system/libsse4-x86_64-linux.so CMakeFiles/sse4.dir/CopyFrame.cpp.o 

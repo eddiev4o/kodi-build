@@ -1,0 +1,2 @@
+/usr/bin/ar qc settings_dialogs.a  CMakeFiles/settings_dialogs.dir/GUIDialogContentSettings.cpp.o CMakeFiles/settings_dialogs.dir/GUIDialogLibExportSettings.cpp.o CMakeFiles/settings_dialogs.dir/GUIDialogSettingsBase.cpp.o CMakeFiles/settings_dialogs.dir/GUIDialogSettingsManagerBase.cpp.o CMakeFiles/settings_dialogs.dir/GUIDialogSettingsManualBase.cpp.o
+/usr/bin/ranlib settings_dialogs.a

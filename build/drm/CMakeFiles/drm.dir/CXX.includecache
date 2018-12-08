@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi/xbmc/commons/Buffer.h
+string.h
+-
+string
+-
+memory
+-
+
+/home/eddie/Documents/kodi/xbmc/drm/CryptoSession.cpp
+CryptoSession.h
+/home/eddie/Documents/kodi/xbmc/drm/CryptoSession.h
+
+/home/eddie/Documents/kodi/xbmc/drm/CryptoSession.h
+string
+-
+vector
+-
+map
+-
+stdint.h
+-
+commons/Buffer.h
+/home/eddie/Documents/kodi/xbmc/drm/commons/Buffer.h
+

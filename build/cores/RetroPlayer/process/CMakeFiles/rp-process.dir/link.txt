@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp-process.a  CMakeFiles/rp-process.dir/RPProcessInfo.cpp.o
+/usr/bin/ranlib rp-process.a

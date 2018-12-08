@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_keyboard.a  CMakeFiles/input_keyboard.dir/KeyboardEasterEgg.cpp.o CMakeFiles/input_keyboard.dir/KeymapActionMap.cpp.o
+/usr/bin/ranlib input_keyboard.a

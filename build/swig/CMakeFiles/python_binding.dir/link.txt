@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpython_binding.a  CMakeFiles/python_binding.dir/AddonModuleXbmcaddon.i.cpp.o CMakeFiles/python_binding.dir/AddonModuleXbmcdrm.i.cpp.o CMakeFiles/python_binding.dir/AddonModuleXbmcgui.i.cpp.o CMakeFiles/python_binding.dir/AddonModuleXbmc.i.cpp.o CMakeFiles/python_binding.dir/AddonModuleXbmcplugin.i.cpp.o CMakeFiles/python_binding.dir/AddonModuleXbmcvfs.i.cpp.o CMakeFiles/python_binding.dir/AddonModuleXbmcwsgi.i.cpp.o
+/usr/bin/ranlib libpython_binding.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc dvddemuxers.a  CMakeFiles/dvddemuxers.dir/DemuxMultiSource.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemux.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxBXA.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxCC.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxCDDA.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxClient.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxFFmpeg.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxUtils.cpp.o CMakeFiles/dvddemuxers.dir/DVDDemuxVobsub.cpp.o CMakeFiles/dvddemuxers.dir/DVDFactoryDemuxer.cpp.o
+/usr/bin/ranlib dvddemuxers.a

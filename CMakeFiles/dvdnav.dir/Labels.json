@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdnav"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdnav.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdnav-complete.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-install.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-mkdir.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-download.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-update.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-patch.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-configure.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-build.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-autoreconf.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dvdnav"
+		],
+		"name" : "dvdnav"
+	}
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp-videorenderers.a  CMakeFiles/rp-videorenderers.dir/RPBaseRenderer.cpp.o CMakeFiles/rp-videorenderers.dir/RPRendererGuiTexture.cpp.o CMakeFiles/rp-videorenderers.dir/RPRendererOpenGLES.cpp.o CMakeFiles/rp-videorenderers.dir/RPRendererOpenGL.cpp.o
+/usr/bin/ranlib rp-videorenderers.a

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi/xbmc-xrandr.c
+stdio.h
+-
+X11/Xlib.h
+-
+X11/Xlibint.h
+-
+X11/Xproto.h
+-
+X11/Xatom.h
+-
+X11/extensions/Xrandr.h
+-
+X11/extensions/Xrender.h
+-
+strings.h
+-
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stdint.h
+-
+math.h
+-
+

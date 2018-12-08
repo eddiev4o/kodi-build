@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -DPLATFORM_SETTINGS_FILE=x11.xml -Wall -O3 -DNDEBUG -s   -fuse-ld=gold CMakeFiles/JsonSchemaBuilder.dir/src/JsonSchemaBuilder.cpp.o  -o JsonSchemaBuilder 

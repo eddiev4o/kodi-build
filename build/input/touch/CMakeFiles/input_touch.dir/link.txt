@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_touch.a  CMakeFiles/input_touch.dir/ITouchInputHandling.cpp.o
+/usr/bin/ranlib input_touch.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc music_infoscanner.a  CMakeFiles/music_infoscanner.dir/MusicAlbumInfo.cpp.o CMakeFiles/music_infoscanner.dir/MusicArtistInfo.cpp.o CMakeFiles/music_infoscanner.dir/MusicInfoScanner.cpp.o CMakeFiles/music_infoscanner.dir/MusicInfoScraper.cpp.o
+/usr/bin/ranlib music_infoscanner.a

@@ -1,0 +1,2 @@
+/home/eddie/Documents/kodi-build/build/lib/libcrossguid.a
+/home/eddie/Documents/kodi-build/build/include/guid.h

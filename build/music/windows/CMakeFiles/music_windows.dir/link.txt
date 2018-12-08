@@ -1,0 +1,2 @@
+/usr/bin/ar qc music_windows.a  CMakeFiles/music_windows.dir/GUIWindowMusicBase.cpp.o CMakeFiles/music_windows.dir/GUIWindowMusicNav.cpp.o CMakeFiles/music_windows.dir/GUIWindowMusicPlaylist.cpp.o CMakeFiles/music_windows.dir/GUIWindowMusicPlaylistEditor.cpp.o CMakeFiles/music_windows.dir/GUIWindowVisualisation.cpp.o CMakeFiles/music_windows.dir/MusicFileItemListModifier.cpp.o
+/usr/bin/ranlib music_windows.a

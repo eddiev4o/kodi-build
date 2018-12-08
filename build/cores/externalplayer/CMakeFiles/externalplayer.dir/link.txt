@@ -1,0 +1,2 @@
+/usr/bin/ar qc externalplayer.a  CMakeFiles/externalplayer.dir/ExternalPlayer.cpp.o
+/usr/bin/ranlib externalplayer.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_guiwindows.a  CMakeFiles/retroplayer_guiwindows.dir/GameWindowFullScreen.cpp.o CMakeFiles/retroplayer_guiwindows.dir/GameWindowFullScreenText.cpp.o
+/usr/bin/ranlib retroplayer_guiwindows.a

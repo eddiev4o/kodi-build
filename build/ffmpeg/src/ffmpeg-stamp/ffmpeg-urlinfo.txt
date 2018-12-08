@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/xbmc/FFmpeg/archive/4.0.3-Leia-Beta5.tar.gz'
+tag=''

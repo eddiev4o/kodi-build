@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdcss"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdcss.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdcss-complete.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-install.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-mkdir.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-download.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-update.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-patch.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-configure.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-build.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdcss-stamp/dvdcss-autoreconf.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dvdcss"
+		],
+		"name" : "dvdcss"
+	}
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc gamedialogs.a  CMakeFiles/gamedialogs.dir/GUIDialogSelectGameClient.cpp.o
+/usr/bin/ranlib gamedialogs.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc addons_test.a  CMakeFiles/addons_test.dir/TestAddonBuilder.cpp.o CMakeFiles/addons_test.dir/TestAddonDatabase.cpp.o CMakeFiles/addons_test.dir/TestAddonFactory.cpp.o CMakeFiles/addons_test.dir/TestAddonVersion.cpp.o
+/usr/bin/ranlib addons_test.a

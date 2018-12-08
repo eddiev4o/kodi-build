@@ -1,0 +1,2 @@
+/usr/bin/ar qc media.a  CMakeFiles/media.dir/MediaType.cpp.o
+/usr/bin/ranlib media.a

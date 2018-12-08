@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+feec2313be035a6d82b0a8011cb4e2e4 CMakeFiles/ffmpeg
+2460ca38d90fcb72c10a25236fbfc357 CMakeFiles/ffmpeg-complete
+ee1018f07621e23996176bacbe901c9d ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-build
+898eb94a76d163432b8778181dc0a557 ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-configure
+d9aee6a718e754f143c0c0698d87b7a2 ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-download
+d95b59ca14a0ca72b76910d8200ef07e ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-install
+95d0868043133ec5c555a693ed2b7f0a ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-mkdir
+5829640e774d29fe1a6c984408f70201 ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-patch
+9c9f6f73c8ec0e46ee971be45ec36505 ffmpeg-prefix/src/ffmpeg-stamp/ffmpeg-update

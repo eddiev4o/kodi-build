@@ -1,0 +1,2 @@
+/usr/bin/ar qc videoshaders.a  CMakeFiles/videoshaders.dir/ConvolutionKernels.cpp.o CMakeFiles/videoshaders.dir/ConversionMatrix.cpp.o CMakeFiles/videoshaders.dir/GLSLOutput.cpp.o CMakeFiles/videoshaders.dir/VideoFilterShaderGL.cpp.o CMakeFiles/videoshaders.dir/YUV2RGBShaderGL.cpp.o
+/usr/bin/ranlib videoshaders.a

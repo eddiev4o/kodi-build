@@ -1,0 +1,2 @@
+/usr/bin/ar qc listproviders.a  CMakeFiles/listproviders.dir/DirectoryProvider.cpp.o CMakeFiles/listproviders.dir/IListProvider.cpp.o CMakeFiles/listproviders.dir/MultiProvider.cpp.o CMakeFiles/listproviders.dir/StaticProvider.cpp.o
+/usr/bin/ranlib listproviders.a

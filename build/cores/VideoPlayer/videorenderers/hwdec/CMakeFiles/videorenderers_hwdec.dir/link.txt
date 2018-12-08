@@ -1,0 +1,2 @@
+/usr/bin/ar qc videorenderers_hwdec.a  CMakeFiles/videorenderers_hwdec.dir/RendererVAAPIGL.cpp.o CMakeFiles/videorenderers_hwdec.dir/VaapiEGL.cpp.o CMakeFiles/videorenderers_hwdec.dir/RendererVDPAU.cpp.o CMakeFiles/videorenderers_hwdec.dir/VdpauGL.cpp.o
+/usr/bin/ranlib videorenderers_hwdec.a

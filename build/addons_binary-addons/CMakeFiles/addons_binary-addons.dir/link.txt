@@ -1,0 +1,2 @@
+/usr/bin/ar qc addons_binary-addons.a  CMakeFiles/addons_binary-addons.dir/BinaryAddonManager.cpp.o CMakeFiles/addons_binary-addons.dir/AddonDll.cpp.o CMakeFiles/addons_binary-addons.dir/AddonInstanceHandler.cpp.o CMakeFiles/addons_binary-addons.dir/BinaryAddonBase.cpp.o CMakeFiles/addons_binary-addons.dir/BinaryAddonExtensions.cpp.o CMakeFiles/addons_binary-addons.dir/BinaryAddonType.cpp.o
+/usr/bin/ranlib addons_binary-addons.a

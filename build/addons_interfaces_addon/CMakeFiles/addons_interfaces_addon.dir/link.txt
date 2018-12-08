@@ -1,0 +1,2 @@
+/usr/bin/ar qc addons_interfaces_addon.a  CMakeFiles/addons_interfaces_addon.dir/AddonCallbacksAddon.cpp.o
+/usr/bin/ranlib addons_interfaces_addon.a

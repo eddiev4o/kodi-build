@@ -1,0 +1,2 @@
+/usr/bin/ar qc view.a  CMakeFiles/view.dir/GUIViewControl.cpp.o CMakeFiles/view.dir/GUIViewState.cpp.o CMakeFiles/view.dir/ViewDatabase.cpp.o CMakeFiles/view.dir/ViewStateSettings.cpp.o
+/usr/bin/ranlib view.a

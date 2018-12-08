@@ -1,0 +1,2 @@
+/usr/bin/ar qc playercorefactory.a  CMakeFiles/playercorefactory.dir/PlayerCoreFactory.cpp.o CMakeFiles/playercorefactory.dir/PlayerSelectionRule.cpp.o
+/usr/bin/ranlib playercorefactory.a

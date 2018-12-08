@@ -1,0 +1,2 @@
+/usr/bin/ar qc gametags.a  CMakeFiles/gametags.dir/GameInfoTag.cpp.o
+/usr/bin/ranlib gametags.a

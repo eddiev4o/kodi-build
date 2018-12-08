@@ -1,0 +1,2 @@
+/usr/bin/ar qc video_jobs.a  CMakeFiles/video_jobs.dir/VideoLibraryCleaningJob.cpp.o CMakeFiles/video_jobs.dir/VideoLibraryJob.cpp.o CMakeFiles/video_jobs.dir/VideoLibraryMarkWatchedJob.cpp.o CMakeFiles/video_jobs.dir/VideoLibraryProgressJob.cpp.o CMakeFiles/video_jobs.dir/VideoLibraryRefreshingJob.cpp.o CMakeFiles/video_jobs.dir/VideoLibraryScanningJob.cpp.o CMakeFiles/video_jobs.dir/VideoLibraryResetResumePointJob.cpp.o
+/usr/bin/ranlib video_jobs.a

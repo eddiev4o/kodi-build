@@ -1,0 +1,2 @@
+/usr/bin/ar qc addons_interfaces.a  CMakeFiles/addons_interfaces.dir/AddonInterfaces.cpp.o CMakeFiles/addons_interfaces.dir/General.cpp.o CMakeFiles/addons_interfaces.dir/Filesystem.cpp.o CMakeFiles/addons_interfaces.dir/Network.cpp.o
+/usr/bin/ranlib addons_interfaces.a

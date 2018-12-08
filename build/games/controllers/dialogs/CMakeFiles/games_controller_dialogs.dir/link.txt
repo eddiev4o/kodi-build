@@ -1,0 +1,2 @@
+/usr/bin/ar qc games_controller_dialogs.a  CMakeFiles/games_controller_dialogs.dir/GUIDialogAxisDetection.cpp.o CMakeFiles/games_controller_dialogs.dir/GUIDialogButtonCapture.cpp.o CMakeFiles/games_controller_dialogs.dir/GUIDialogIgnoreInput.cpp.o
+/usr/bin/ranlib games_controller_dialogs.a

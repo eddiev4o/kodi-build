@@ -1,0 +1,2 @@
+/usr/bin/ar qc events.a  CMakeFiles/events.dir/AddonEvent.cpp.o CMakeFiles/events.dir/AddonManagementEvent.cpp.o CMakeFiles/events.dir/BaseEvent.cpp.o CMakeFiles/events.dir/EventLog.cpp.o CMakeFiles/events.dir/EventLogManager.cpp.o CMakeFiles/events.dir/MediaLibraryEvent.cpp.o
+/usr/bin/ranlib events.a

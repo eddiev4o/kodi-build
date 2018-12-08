@@ -1,0 +1,2 @@
+/usr/bin/ar qc threads_test.a  CMakeFiles/threads_test.dir/TestEvent.cpp.o CMakeFiles/threads_test.dir/TestSharedSection.cpp.o
+/usr/bin/ranlib threads_test.a

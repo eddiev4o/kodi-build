@@ -1,0 +1,2 @@
+/usr/bin/ar qc musictags_test.a  CMakeFiles/musictags_test.dir/TestTagLoaderTagLib.cpp.o
+/usr/bin/ranlib musictags_test.a

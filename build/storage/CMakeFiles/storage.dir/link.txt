@@ -1,0 +1,2 @@
+/usr/bin/ar qc storage.a  CMakeFiles/storage.dir/AutorunMediaJob.cpp.o CMakeFiles/storage.dir/IoSupport.cpp.o CMakeFiles/storage.dir/MediaManager.cpp.o CMakeFiles/storage.dir/cdioSupport.cpp.o CMakeFiles/storage.dir/DetectDVDType.cpp.o
+/usr/bin/ranlib storage.a

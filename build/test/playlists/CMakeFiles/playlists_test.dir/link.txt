@@ -1,0 +1,2 @@
+/usr/bin/ar qc playlists_test.a  CMakeFiles/playlists_test.dir/TestPlayListFactory.cpp.o CMakeFiles/playlists_test.dir/TestPlayListXSPF.cpp.o
+/usr/bin/ranlib playlists_test.a

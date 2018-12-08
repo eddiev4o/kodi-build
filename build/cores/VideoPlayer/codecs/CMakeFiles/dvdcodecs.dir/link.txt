@@ -1,0 +1,2 @@
+/usr/bin/ar qc dvdcodecs.a  CMakeFiles/dvdcodecs.dir/DVDCodecUtils.cpp.o CMakeFiles/dvdcodecs.dir/DVDFactoryCodec.cpp.o
+/usr/bin/ranlib dvdcodecs.a

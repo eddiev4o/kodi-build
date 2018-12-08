@@ -1,0 +1,2 @@
+/usr/bin/ar qc settings_lib.a  CMakeFiles/settings_lib.dir/ISetting.cpp.o CMakeFiles/settings_lib.dir/ISettingControl.cpp.o CMakeFiles/settings_lib.dir/Setting.cpp.o CMakeFiles/settings_lib.dir/SettingCategoryAccess.cpp.o CMakeFiles/settings_lib.dir/SettingConditions.cpp.o CMakeFiles/settings_lib.dir/SettingDependency.cpp.o CMakeFiles/settings_lib.dir/SettingRequirement.cpp.o CMakeFiles/settings_lib.dir/SettingSection.cpp.o CMakeFiles/settings_lib.dir/SettingsManager.cpp.o CMakeFiles/settings_lib.dir/SettingUpdate.cpp.o
+/usr/bin/ranlib settings_lib.a

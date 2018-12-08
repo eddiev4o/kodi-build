@@ -1,0 +1,14 @@
+prefix=/home/eddie/Documents/kodi-build/build
+exec_prefix=${prefix}
+libdir=/home/eddie/Documents/kodi-build/build/lib
+includedir=/home/eddie/Documents/kodi-build/build/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 58.18.100
+Requires: libswresample >= 3.1.100, libavutil >= 56.14.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavcodec -pthread -lm -llzma -lz -lva
+Libs.private: 
+Cflags: -I${includedir}

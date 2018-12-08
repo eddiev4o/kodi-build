@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer.a  CMakeFiles/retroplayer.dir/RetroPlayer.cpp.o CMakeFiles/retroplayer.dir/RetroPlayerAutoSave.cpp.o CMakeFiles/retroplayer.dir/RetroPlayerInput.cpp.o CMakeFiles/retroplayer.dir/RetroPlayerUtils.cpp.o
+/usr/bin/ranlib retroplayer.a

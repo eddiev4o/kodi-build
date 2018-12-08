@@ -1,0 +1,2 @@
+/usr/bin/ar qc platform_linux_peripherals.a  CMakeFiles/platform_linux_peripherals.dir/PeripheralBusUSBLibUdev.cpp.o
+/usr/bin/ranlib platform_linux_peripherals.a

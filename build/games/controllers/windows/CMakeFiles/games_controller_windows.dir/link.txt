@@ -1,0 +1,2 @@
+/usr/bin/ar qc games_controller_windows.a  CMakeFiles/games_controller_windows.dir/ControllerInstaller.cpp.o CMakeFiles/games_controller_windows.dir/GUIConfigurationWizard.cpp.o CMakeFiles/games_controller_windows.dir/GUIControllerList.cpp.o CMakeFiles/games_controller_windows.dir/GUIControllerWindow.cpp.o CMakeFiles/games_controller_windows.dir/GUIFeatureList.cpp.o
+/usr/bin/ranlib games_controller_windows.a

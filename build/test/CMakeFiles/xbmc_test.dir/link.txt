@@ -1,0 +1,2 @@
+/usr/bin/ar qc xbmc_test.a  CMakeFiles/xbmc_test.dir/TestBasicEnvironment.cpp.o CMakeFiles/xbmc_test.dir/TestFileItem.cpp.o CMakeFiles/xbmc_test.dir/TestTextureUtils.cpp.o CMakeFiles/xbmc_test.dir/TestURL.cpp.o CMakeFiles/xbmc_test.dir/TestUtil.cpp.o CMakeFiles/xbmc_test.dir/TestUtils.cpp.o
+/usr/bin/ranlib xbmc_test.a

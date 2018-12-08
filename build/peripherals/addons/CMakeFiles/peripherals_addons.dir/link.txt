@@ -1,0 +1,2 @@
+/usr/bin/ar qc peripherals_addons.a  CMakeFiles/peripherals_addons.dir/AddonButtonMap.cpp.o CMakeFiles/peripherals_addons.dir/AddonButtonMapping.cpp.o CMakeFiles/peripherals_addons.dir/AddonInputHandling.cpp.o CMakeFiles/peripherals_addons.dir/PeripheralAddon.cpp.o CMakeFiles/peripherals_addons.dir/PeripheralAddonTranslator.cpp.o
+/usr/bin/ranlib peripherals_addons.a

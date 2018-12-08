@@ -1,0 +1,2 @@
+/usr/bin/ar qc dllloader.a  CMakeFiles/dllloader.dir/coff.cpp.o CMakeFiles/dllloader.dir/dll.cpp.o CMakeFiles/dllloader.dir/DllLoader.cpp.o CMakeFiles/dllloader.dir/DllLoaderContainer.cpp.o CMakeFiles/dllloader.dir/dll_tracker.cpp.o CMakeFiles/dllloader.dir/dll_tracker_file.cpp.o CMakeFiles/dllloader.dir/dll_tracker_library.cpp.o CMakeFiles/dllloader.dir/dll_util.cpp.o CMakeFiles/dllloader.dir/LibraryLoader.cpp.o CMakeFiles/dllloader.dir/mmap_anon.c.o CMakeFiles/dllloader.dir/SoLoader.cpp.o CMakeFiles/dllloader.dir/ldt_keeper.c.o
+/usr/bin/ranlib dllloader.a

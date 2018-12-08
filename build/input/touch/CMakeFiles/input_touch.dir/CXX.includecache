@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi/xbmc/input/touch/ITouchActionHandler.h
+stdint.h
+-
+
+/home/eddie/Documents/kodi/xbmc/input/touch/ITouchInputHandling.cpp
+ITouchInputHandling.h
+/home/eddie/Documents/kodi/xbmc/input/touch/ITouchInputHandling.h
+
+/home/eddie/Documents/kodi/xbmc/input/touch/ITouchInputHandling.h
+stdlib.h
+-
+input/touch/ITouchActionHandler.h
+/home/eddie/Documents/kodi/xbmc/input/touch/input/touch/ITouchActionHandler.h
+

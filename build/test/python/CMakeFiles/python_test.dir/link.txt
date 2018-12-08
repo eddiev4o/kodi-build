@@ -1,0 +1,2 @@
+/usr/bin/ar qc python_test.a  CMakeFiles/python_test.dir/TestSwig.cpp.o
+/usr/bin/ranlib python_test.a

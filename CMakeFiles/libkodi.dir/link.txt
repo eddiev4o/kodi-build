@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkodi.a  CMakeFiles/compileinfo.dir/build/xbmc/CompileInfo.cpp.o
+/usr/bin/ranlib libkodi.a

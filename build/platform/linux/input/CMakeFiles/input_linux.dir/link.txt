@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_linux.a  CMakeFiles/input_linux.dir/LIRC.cpp.o
+/usr/bin/ranlib input_linux.a

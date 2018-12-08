@@ -1,0 +1,2 @@
+/usr/bin/ar qc profiles.a  CMakeFiles/profiles.dir/Profile.cpp.o CMakeFiles/profiles.dir/ProfileManager.cpp.o
+/usr/bin/ranlib profiles.a

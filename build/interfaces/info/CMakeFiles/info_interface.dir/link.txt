@@ -1,0 +1,2 @@
+/usr/bin/ar qc info_interface.a  CMakeFiles/info_interface.dir/InfoBool.cpp.o CMakeFiles/info_interface.dir/InfoExpression.cpp.o CMakeFiles/info_interface.dir/SkinVariable.cpp.o
+/usr/bin/ranlib info_interface.a

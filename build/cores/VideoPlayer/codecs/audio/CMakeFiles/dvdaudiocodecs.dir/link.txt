@@ -1,0 +1,2 @@
+/usr/bin/ar qc dvdaudiocodecs.a  CMakeFiles/dvdaudiocodecs.dir/DVDAudioCodecFFmpeg.cpp.o CMakeFiles/dvdaudiocodecs.dir/DVDAudioCodecPassthrough.cpp.o
+/usr/bin/ranlib dvdaudiocodecs.a

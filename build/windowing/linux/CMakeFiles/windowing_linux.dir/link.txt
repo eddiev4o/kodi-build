@@ -1,0 +1,2 @@
+/usr/bin/ar qc windowing_linux.a  CMakeFiles/windowing_linux.dir/OSScreenSaverFreedesktop.cpp.o
+/usr/bin/ranlib windowing_linux.a

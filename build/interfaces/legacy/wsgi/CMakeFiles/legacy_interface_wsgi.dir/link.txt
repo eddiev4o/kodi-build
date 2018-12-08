@@ -1,0 +1,2 @@
+/usr/bin/ar qc legacy_interface_wsgi.a  CMakeFiles/legacy_interface_wsgi.dir/WsgiErrorStream.cpp.o CMakeFiles/legacy_interface_wsgi.dir/WsgiInputStream.cpp.o CMakeFiles/legacy_interface_wsgi.dir/WsgiResponseBody.cpp.o CMakeFiles/legacy_interface_wsgi.dir/WsgiResponse.cpp.o
+/usr/bin/ranlib legacy_interface_wsgi.a

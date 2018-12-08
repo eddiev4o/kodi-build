@@ -1,0 +1,14 @@
+prefix=/home/eddie/Documents/kodi-build/build
+exec_prefix=${prefix}
+libdir=/home/eddie/Documents/kodi-build/build/lib
+includedir=/home/eddie/Documents/kodi-build/build/include
+
+Name: libavdevice
+Description: FFmpeg device handling library
+Version: 58.3.100
+Requires: libavformat >= 58.12.100, libavcodec >= 58.18.100, libswresample >= 3.1.100, libavutil >= 56.14.100
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavdevice -lm
+Libs.private: 
+Cflags: -I${includedir}

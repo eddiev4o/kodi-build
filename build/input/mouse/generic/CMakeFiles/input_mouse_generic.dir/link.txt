@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_mouse_generic.a  CMakeFiles/input_mouse_generic.dir/MouseInputHandling.cpp.o
+/usr/bin/ranlib input_mouse_generic.a

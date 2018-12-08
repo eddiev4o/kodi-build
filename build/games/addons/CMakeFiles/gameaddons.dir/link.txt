@@ -1,0 +1,2 @@
+/usr/bin/ar qc gameaddons.a  CMakeFiles/gameaddons.dir/GameClient.cpp.o CMakeFiles/gameaddons.dir/GameClientInGameSaves.cpp.o CMakeFiles/gameaddons.dir/GameClientProperties.cpp.o CMakeFiles/gameaddons.dir/GameClientSubsystem.cpp.o CMakeFiles/gameaddons.dir/GameClientTranslator.cpp.o
+/usr/bin/ranlib gameaddons.a

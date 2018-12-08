@@ -1,0 +1,2 @@
+/usr/bin/ar qc network_test.a  CMakeFiles/network_test.dir/TestWebServer.cpp.o
+/usr/bin/ranlib network_test.a

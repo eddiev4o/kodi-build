@@ -1,0 +1,2 @@
+/usr/bin/ar qc peripherals_bus.a  CMakeFiles/peripherals_bus.dir/PeripheralBus.cpp.o
+/usr/bin/ranlib peripherals_bus.a

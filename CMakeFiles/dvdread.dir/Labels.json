@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdread"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdread.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/dvdread-complete.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-install.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-mkdir.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-download.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-update.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-patch.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-configure.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-build.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/libdvd/src/dvdread-stamp/dvdread-autoreconf.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dvdread"
+		],
+		"name" : "dvdread"
+	}
+}

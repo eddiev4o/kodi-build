@@ -1,0 +1,2 @@
+/usr/bin/ar qc pvr_addons.a  CMakeFiles/pvr_addons.dir/PVRClients.cpp.o
+/usr/bin/ranlib pvr_addons.a

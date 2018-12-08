@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid/guid.cpp
+guid.h
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid/guid.h
+uuid/uuid.h
+-
+CoreFoundation/CFUUID.h
+-
+objbase.h
+-
+jni.h
+-
+
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid/guid.h
+iostream
+-
+vector
+-
+sstream
+-
+string
+-
+iomanip
+-
+jni.h
+-
+

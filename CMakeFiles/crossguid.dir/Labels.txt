@@ -1,0 +1,13 @@
+# Target labels
+ crossguid
+# Source files and their labels
+/home/eddie/Documents/kodi-build/CMakeFiles/crossguid
+/home/eddie/Documents/kodi-build/CMakeFiles/crossguid.rule
+/home/eddie/Documents/kodi-build/CMakeFiles/crossguid-complete.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-install.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-mkdir.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-download.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-update.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-patch.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-configure.rule
+/home/eddie/Documents/kodi-build/build/crossguid/src/crossguid-stamp/crossguid-build.rule

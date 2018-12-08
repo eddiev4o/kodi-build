@@ -1,0 +1,2 @@
+/usr/bin/ar qc video_tags.a  CMakeFiles/video_tags.dir/VideoInfoTagLoaderFactory.cpp.o CMakeFiles/video_tags.dir/VideoTagLoaderFFmpeg.cpp.o CMakeFiles/video_tags.dir/VideoTagLoaderNFO.cpp.o CMakeFiles/video_tags.dir/VideoTagLoaderPlugin.cpp.o
+/usr/bin/ranlib video_tags.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc paplayer.a  CMakeFiles/paplayer.dir/AudioDecoder.cpp.o CMakeFiles/paplayer.dir/CodecFactory.cpp.o CMakeFiles/paplayer.dir/PAPlayer.cpp.o CMakeFiles/paplayer.dir/VideoPlayerCodec.cpp.o
+/usr/bin/ranlib paplayer.a

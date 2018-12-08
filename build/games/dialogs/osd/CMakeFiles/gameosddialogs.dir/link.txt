@@ -1,0 +1,2 @@
+/usr/bin/ar qc gameosddialogs.a  CMakeFiles/gameosddialogs.dir/DialogGameAdvancedSettings.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameOSD.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameOSDHelp.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameStretchMode.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameVideoFilter.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameVideoRotation.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameVideoSelect.cpp.o CMakeFiles/gameosddialogs.dir/DialogGameVolume.cpp.o
+/usr/bin/ranlib gameosddialogs.a

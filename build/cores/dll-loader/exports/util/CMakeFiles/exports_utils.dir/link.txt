@@ -1,0 +1,2 @@
+/usr/bin/ar qc exports_utils.a  CMakeFiles/exports_utils.dir/EmuFileWrapper.cpp.o
+/usr/bin/ranlib exports_utils.a

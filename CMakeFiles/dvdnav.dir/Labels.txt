@@ -1,0 +1,14 @@
+# Target labels
+ dvdnav
+# Source files and their labels
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdnav
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdnav.rule
+/home/eddie/Documents/kodi-build/CMakeFiles/dvdnav-complete.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-install.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-mkdir.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-download.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-update.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-patch.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-configure.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-build.rule
+/home/eddie/Documents/kodi-build/build/libdvd/src/dvdnav-stamp/dvdnav-autoreconf.rule

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/libcpluff"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/libcpluff.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/CMakeFiles/libcpluff-complete.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-install.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-mkdir.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-download.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-update.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-patch.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-configure.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-build.rule"
+		},
+		{
+			"file" : "/home/eddie/Documents/kodi-build/build/cpluff/src/libcpluff-stamp/libcpluff-autoreconf.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libcpluff"
+		],
+		"name" : "libcpluff"
+	}
+}

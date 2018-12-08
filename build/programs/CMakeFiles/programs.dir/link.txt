@@ -1,0 +1,2 @@
+/usr/bin/ar qc programs.a  CMakeFiles/programs.dir/GUIViewStatePrograms.cpp.o CMakeFiles/programs.dir/GUIWindowPrograms.cpp.o
+/usr/bin/ranlib programs.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc music_jobs.a  CMakeFiles/music_jobs.dir/MusicLibraryJob.cpp.o CMakeFiles/music_jobs.dir/MusicLibraryProgressJob.cpp.o CMakeFiles/music_jobs.dir/MusicLibraryCleaningJob.cpp.o CMakeFiles/music_jobs.dir/MusicLibraryExportJob.cpp.o CMakeFiles/music_jobs.dir/MusicLibraryScanningJob.cpp.o
+/usr/bin/ranlib music_jobs.a

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi-build/build/xbmc/CompileInfo.cpp
+CompileInfo.h
+/home/eddie/Documents/kodi-build/build/xbmc/CompileInfo.h
+cstddef
+-
+string
+-
+algorithm
+-
+
+/home/eddie/Documents/kodi/xbmc/CompileInfo.h
+

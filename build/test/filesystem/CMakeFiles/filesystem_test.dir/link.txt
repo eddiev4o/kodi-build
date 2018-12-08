@@ -1,0 +1,2 @@
+/usr/bin/ar qc filesystem_test.a  CMakeFiles/filesystem_test.dir/TestDirectory.cpp.o CMakeFiles/filesystem_test.dir/TestFile.cpp.o CMakeFiles/filesystem_test.dir/TestFileFactory.cpp.o CMakeFiles/filesystem_test.dir/TestZipFile.cpp.o CMakeFiles/filesystem_test.dir/TestZipManager.cpp.o CMakeFiles/filesystem_test.dir/TestNfsFile.cpp.o
+/usr/bin/ranlib filesystem_test.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc network_websockets.a  CMakeFiles/network_websockets.dir/WebSocket.cpp.o CMakeFiles/network_websockets.dir/WebSocketManager.cpp.o CMakeFiles/network_websockets.dir/WebSocketV13.cpp.o CMakeFiles/network_websockets.dir/WebSocketV8.cpp.o
+/usr/bin/ranlib network_websockets.a

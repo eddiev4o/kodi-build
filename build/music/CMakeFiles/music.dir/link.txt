@@ -1,0 +1,2 @@
+/usr/bin/ar qc music.a  CMakeFiles/music.dir/Album.cpp.o CMakeFiles/music.dir/Artist.cpp.o CMakeFiles/music.dir/ContextMenus.cpp.o CMakeFiles/music.dir/GUIViewStateMusic.cpp.o CMakeFiles/music.dir/MusicDatabase.cpp.o CMakeFiles/music.dir/MusicDbUrl.cpp.o CMakeFiles/music.dir/MusicInfoLoader.cpp.o CMakeFiles/music.dir/MusicLibraryQueue.cpp.o CMakeFiles/music.dir/MusicThumbLoader.cpp.o CMakeFiles/music.dir/MusicUtils.cpp.o CMakeFiles/music.dir/Song.cpp.o
+/usr/bin/ranlib music.a

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi/xbmc/platform/linux/sse4/CopyFrame.cpp
+smmintrin.h
+/home/eddie/Documents/kodi/xbmc/platform/linux/sse4/smmintrin.h
+

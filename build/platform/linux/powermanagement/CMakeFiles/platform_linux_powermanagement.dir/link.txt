@@ -1,0 +1,2 @@
+/usr/bin/ar qc platform_linux_powermanagement.a  CMakeFiles/platform_linux_powermanagement.dir/LinuxPowerSyscall.cpp.o CMakeFiles/platform_linux_powermanagement.dir/ConsoleUPowerSyscall.cpp.o CMakeFiles/platform_linux_powermanagement.dir/LogindUPowerSyscall.cpp.o CMakeFiles/platform_linux_powermanagement.dir/UPowerSyscall.cpp.o
+/usr/bin/ranlib platform_linux_powermanagement.a

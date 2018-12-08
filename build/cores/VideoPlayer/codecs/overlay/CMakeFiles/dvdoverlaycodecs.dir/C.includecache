@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddie/Documents/kodi/xbmc/cores/VideoPlayer/DVDCodecs/Overlay/contrib/cc_decoder.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+cc_decoder.h
+/home/eddie/Documents/kodi/xbmc/cores/VideoPlayer/DVDCodecs/Overlay/contrib/cc_decoder.h
+
+/home/eddie/Documents/kodi/xbmc/cores/VideoPlayer/DVDCodecs/Overlay/contrib/cc_decoder.h
+stdint.h
+-
+

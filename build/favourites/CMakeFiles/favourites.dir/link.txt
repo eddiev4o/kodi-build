@@ -1,0 +1,2 @@
+/usr/bin/ar qc favourites.a  CMakeFiles/favourites.dir/ContextMenus.cpp.o CMakeFiles/favourites.dir/GUIDialogFavourites.cpp.o CMakeFiles/favourites.dir/FavouritesService.cpp.o
+/usr/bin/ranlib favourites.a

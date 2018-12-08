@@ -1,0 +1,2 @@
+/usr/bin/ar qc peripherals.a  CMakeFiles/peripherals.dir/EventLockHandle.cpp.o CMakeFiles/peripherals.dir/EventPollHandle.cpp.o CMakeFiles/peripherals.dir/EventScanner.cpp.o CMakeFiles/peripherals.dir/Peripherals.cpp.o
+/usr/bin/ranlib peripherals.a

@@ -1,0 +1,13 @@
+# Target labels
+ ffmpeg
+# Source files and their labels
+/home/eddie/Documents/kodi-build/CMakeFiles/ffmpeg
+/home/eddie/Documents/kodi-build/CMakeFiles/ffmpeg.rule
+/home/eddie/Documents/kodi-build/CMakeFiles/ffmpeg-complete.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-install.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-mkdir.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-download.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-update.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-patch.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-configure.rule
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-stamp/ffmpeg-build.rule

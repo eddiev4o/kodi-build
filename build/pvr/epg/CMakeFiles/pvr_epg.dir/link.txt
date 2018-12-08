@@ -1,0 +1,2 @@
+/usr/bin/ar qc pvr_epg.a  CMakeFiles/pvr_epg.dir/EpgContainer.cpp.o CMakeFiles/pvr_epg.dir/Epg.cpp.o CMakeFiles/pvr_epg.dir/EpgDatabase.cpp.o CMakeFiles/pvr_epg.dir/EpgInfoTag.cpp.o CMakeFiles/pvr_epg.dir/EpgSearchFilter.cpp.o
+/usr/bin/ranlib pvr_epg.a

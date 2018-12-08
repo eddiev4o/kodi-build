@@ -1,0 +1,2 @@
+/usr/bin/ar qc windowing.a  CMakeFiles/windowing.dir/GraphicContext.cpp.o CMakeFiles/windowing.dir/OSScreenSaver.cpp.o CMakeFiles/windowing.dir/Resolution.cpp.o CMakeFiles/windowing.dir/WinSystem.cpp.o
+/usr/bin/ranlib windowing.a

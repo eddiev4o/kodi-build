@@ -1,0 +1,2 @@
+/usr/bin/ar qc platform_posix_filesystem.a  CMakeFiles/platform_posix_filesystem.dir/PosixDirectory.cpp.o CMakeFiles/platform_posix_filesystem.dir/PosixFile.cpp.o CMakeFiles/platform_posix_filesystem.dir/SMBDirectory.cpp.o CMakeFiles/platform_posix_filesystem.dir/SMBFile.cpp.o
+/usr/bin/ranlib platform_posix_filesystem.a

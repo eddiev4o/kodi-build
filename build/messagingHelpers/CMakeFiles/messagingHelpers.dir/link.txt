@@ -1,0 +1,2 @@
+/usr/bin/ar qc messagingHelpers.a  CMakeFiles/messagingHelpers.dir/DialogHelper.cpp.o CMakeFiles/messagingHelpers.dir/DialogOKHelper.cpp.o
+/usr/bin/ranlib messagingHelpers.a

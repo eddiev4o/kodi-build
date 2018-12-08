@@ -1,0 +1,2 @@
+/usr/bin/ar qc profiles_dialogs.a  CMakeFiles/profiles_dialogs.dir/GUIDialogLockSettings.cpp.o CMakeFiles/profiles_dialogs.dir/GUIDialogProfileSettings.cpp.o
+/usr/bin/ranlib profiles_dialogs.a

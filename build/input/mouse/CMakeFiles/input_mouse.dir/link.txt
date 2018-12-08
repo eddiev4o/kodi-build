@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_mouse.a  CMakeFiles/input_mouse.dir/MouseStat.cpp.o CMakeFiles/input_mouse.dir/MouseTranslator.cpp.o
+/usr/bin/ranlib input_mouse.a

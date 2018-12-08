@@ -1,0 +1,2 @@
+/usr/bin/ar qc dllexports.a  CMakeFiles/dllexports.dir/emu_dummy.cpp.o CMakeFiles/dllexports.dir/emu_msvcrt.cpp.o
+/usr/bin/ranlib dllexports.a

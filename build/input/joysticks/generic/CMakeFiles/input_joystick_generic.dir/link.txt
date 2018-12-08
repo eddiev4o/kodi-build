@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_joystick_generic.a  CMakeFiles/input_joystick_generic.dir/ButtonMapping.cpp.o CMakeFiles/input_joystick_generic.dir/DriverReceiving.cpp.o CMakeFiles/input_joystick_generic.dir/FeatureHandling.cpp.o CMakeFiles/input_joystick_generic.dir/InputHandling.cpp.o
+/usr/bin/ranlib input_joystick_generic.a

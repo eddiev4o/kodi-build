@@ -1,0 +1,2 @@
+/usr/bin/ar qc dvdoverlaycodecs.a  CMakeFiles/dvdoverlaycodecs.dir/DVDOverlayCodec.cpp.o CMakeFiles/dvdoverlaycodecs.dir/DVDOverlayCodecFFmpeg.cpp.o CMakeFiles/dvdoverlaycodecs.dir/DVDOverlayCodecSSA.cpp.o CMakeFiles/dvdoverlaycodecs.dir/DVDOverlayCodecText.cpp.o CMakeFiles/dvdoverlaycodecs.dir/DVDOverlayCodecTX3G.cpp.o CMakeFiles/dvdoverlaycodecs.dir/contrib/cc_decoder.c.o CMakeFiles/dvdoverlaycodecs.dir/contrib/cc_decoder708.cpp.o
+/usr/bin/ranlib dvdoverlaycodecs.a

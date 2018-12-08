@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_guibridge.a  CMakeFiles/retroplayer_guibridge.dir/GUIGameRenderManager.cpp.o CMakeFiles/retroplayer_guibridge.dir/GUIGameSettings.cpp.o CMakeFiles/retroplayer_guibridge.dir/GUIGameSettingsHandle.cpp.o CMakeFiles/retroplayer_guibridge.dir/GUIGameVideoHandle.cpp.o CMakeFiles/retroplayer_guibridge.dir/GUIRenderHandle.cpp.o CMakeFiles/retroplayer_guibridge.dir/GUIRenderTarget.cpp.o CMakeFiles/retroplayer_guibridge.dir/GUIRenderTargetFactory.cpp.o
+/usr/bin/ranlib retroplayer_guibridge.a

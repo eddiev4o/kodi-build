@@ -1,0 +1,2 @@
+/usr/bin/ar qc rendering_gl.a  CMakeFiles/rendering_gl.dir/RenderSystemGL.cpp.o CMakeFiles/rendering_gl.dir/__/MatrixGL.cpp.o CMakeFiles/rendering_gl.dir/GLShader.cpp.o
+/usr/bin/ranlib rendering_gl.a

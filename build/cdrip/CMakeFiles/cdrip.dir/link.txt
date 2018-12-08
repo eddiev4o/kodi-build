@@ -1,0 +1,2 @@
+/usr/bin/ar qc cdrip.a  CMakeFiles/cdrip.dir/CDDARipJob.cpp.o CMakeFiles/cdrip.dir/Encoder.cpp.o CMakeFiles/cdrip.dir/EncoderFFmpeg.cpp.o CMakeFiles/cdrip.dir/CDDARipper.cpp.o
+/usr/bin/ranlib cdrip.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc gameports.a  CMakeFiles/gameports.dir/InputSink.cpp.o CMakeFiles/gameports.dir/Port.cpp.o
+/usr/bin/ranlib gameports.a

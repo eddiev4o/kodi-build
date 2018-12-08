@@ -1,0 +1,2 @@
+/usr/bin/ar qc platform_common.a  CMakeFiles/platform_common.dir/Environment.cpp.o CMakeFiles/platform_common.dir/Platform.cpp.o CMakeFiles/platform_common.dir/xbmc.cpp.o
+/usr/bin/ranlib platform_common.a

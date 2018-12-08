@@ -1,0 +1,2 @@
+/usr/bin/ar qc video_test.a  CMakeFiles/video_test.dir/TestVideoInfoScanner.cpp.o
+/usr/bin/ranlib video_test.a

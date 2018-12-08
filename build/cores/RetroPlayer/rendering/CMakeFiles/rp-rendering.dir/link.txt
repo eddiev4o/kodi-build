@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp-rendering.a  CMakeFiles/rp-rendering.dir/RenderContext.cpp.o CMakeFiles/rp-rendering.dir/RenderSettings.cpp.o CMakeFiles/rp-rendering.dir/RenderTranslator.cpp.o CMakeFiles/rp-rendering.dir/RenderUtils.cpp.o CMakeFiles/rp-rendering.dir/RenderVideoSettings.cpp.o CMakeFiles/rp-rendering.dir/RPRenderManager.cpp.o
+/usr/bin/ranlib rp-rendering.a

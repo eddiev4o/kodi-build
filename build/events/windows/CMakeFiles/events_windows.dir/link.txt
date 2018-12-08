@@ -1,0 +1,2 @@
+/usr/bin/ar qc events_windows.a  CMakeFiles/events_windows.dir/GUIViewStateEventLog.cpp.o CMakeFiles/events_windows.dir/GUIWindowEventLog.cpp.o
+/usr/bin/ranlib events_windows.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc addons_interfaces_gui.a  CMakeFiles/addons_interfaces_gui.dir/General.cpp.o CMakeFiles/addons_interfaces_gui.dir/ListItem.cpp.o CMakeFiles/addons_interfaces_gui.dir/Window.cpp.o CMakeFiles/addons_interfaces_gui.dir/AddonCallbacksGUI.cpp.o CMakeFiles/addons_interfaces_gui.dir/AddonGUIRenderingControl.cpp.o CMakeFiles/addons_interfaces_gui.dir/AddonGUIWindow.cpp.o
+/usr/bin/ranlib addons_interfaces_gui.a

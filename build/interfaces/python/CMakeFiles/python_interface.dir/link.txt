@@ -1,0 +1,2 @@
+/usr/bin/ar qc python_interface.a  CMakeFiles/python_interface.dir/AddonPythonInvoker.cpp.o CMakeFiles/python_interface.dir/CallbackHandler.cpp.o CMakeFiles/python_interface.dir/ContextItemAddonInvoker.cpp.o CMakeFiles/python_interface.dir/LanguageHook.cpp.o CMakeFiles/python_interface.dir/PythonInvoker.cpp.o CMakeFiles/python_interface.dir/XBPython.cpp.o CMakeFiles/python_interface.dir/swig.cpp.o CMakeFiles/python_interface.dir/PyContext.cpp.o
+/usr/bin/ranlib python_interface.a

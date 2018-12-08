@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_guiplayback.a  CMakeFiles/retroplayer_guiplayback.dir/GUIPlaybackControl.cpp.o
+/usr/bin/ranlib retroplayer_guiplayback.a

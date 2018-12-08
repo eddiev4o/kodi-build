@@ -1,0 +1,2 @@
+/usr/bin/ar qc music_dialogs.a  CMakeFiles/music_dialogs.dir/GUIDialogInfoProviderSettings.cpp.o CMakeFiles/music_dialogs.dir/GUIDialogMusicInfo.cpp.o CMakeFiles/music_dialogs.dir/GUIDialogMusicOSD.cpp.o CMakeFiles/music_dialogs.dir/GUIDialogSongInfo.cpp.o CMakeFiles/music_dialogs.dir/GUIDialogVisualisationPresetList.cpp.o
+/usr/bin/ranlib music_dialogs.a

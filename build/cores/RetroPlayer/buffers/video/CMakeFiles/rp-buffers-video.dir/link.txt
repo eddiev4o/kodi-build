@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp-buffers-video.a  CMakeFiles/rp-buffers-video.dir/RenderBufferGuiTexture.cpp.o CMakeFiles/rp-buffers-video.dir/RenderBufferSysMem.cpp.o
+/usr/bin/ranlib rp-buffers-video.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc gameinput.a  CMakeFiles/gameinput.dir/GameClientController.cpp.o CMakeFiles/gameinput.dir/GameClientDevice.cpp.o CMakeFiles/gameinput.dir/GameClientHardware.cpp.o CMakeFiles/gameinput.dir/GameClientInput.cpp.o CMakeFiles/gameinput.dir/GameClientJoystick.cpp.o CMakeFiles/gameinput.dir/GameClientKeyboard.cpp.o CMakeFiles/gameinput.dir/GameClientMouse.cpp.o CMakeFiles/gameinput.dir/GameClientPort.cpp.o CMakeFiles/gameinput.dir/GameClientTopology.cpp.o
+/usr/bin/ranlib gameinput.a

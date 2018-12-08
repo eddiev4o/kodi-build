@@ -1,0 +1,2 @@
+/usr/bin/ar qc retroplayer_memory.a  CMakeFiles/retroplayer_memory.dir/BasicMemoryStream.cpp.o CMakeFiles/retroplayer_memory.dir/DeltaPairMemoryStream.cpp.o CMakeFiles/retroplayer_memory.dir/LinearMemoryStream.cpp.o
+/usr/bin/ranlib retroplayer_memory.a

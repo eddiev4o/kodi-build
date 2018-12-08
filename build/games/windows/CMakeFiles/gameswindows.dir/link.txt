@@ -1,0 +1,2 @@
+/usr/bin/ar qc gameswindows.a  CMakeFiles/gameswindows.dir/GUIViewStateWindowGames.cpp.o CMakeFiles/gameswindows.dir/GUIWindowGames.cpp.o
+/usr/bin/ranlib gameswindows.a

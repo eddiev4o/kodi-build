@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrossguid.a  CMakeFiles/crossguid.dir/guid.cpp.o
+/usr/bin/ranlib libcrossguid.a

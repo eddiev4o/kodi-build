@@ -1,0 +1,2 @@
+/usr/bin/ar qc input_touch_generic.a  CMakeFiles/input_touch_generic.dir/GenericTouchActionHandler.cpp.o CMakeFiles/input_touch_generic.dir/GenericTouchInputHandler.cpp.o CMakeFiles/input_touch_generic.dir/GenericTouchPinchDetector.cpp.o CMakeFiles/input_touch_generic.dir/GenericTouchRotateDetector.cpp.o CMakeFiles/input_touch_generic.dir/GenericTouchSwipeDetector.cpp.o
+/usr/bin/ranlib input_touch_generic.a

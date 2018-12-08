@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp-process-x11.a  CMakeFiles/rp-process-x11.dir/RPProcessInfoX11.cpp.o
+/usr/bin/ranlib rp-process-x11.a

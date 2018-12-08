@@ -1,0 +1,14 @@
+#!/bin/bash
+if [[ $@ == *kodi.bin* || $@ == *kodi-x11* || $@ == *kodi.so* || $@ == *kodi-test* ]]
+then
+  avformat=`PKG_CONFIG_PATH=/home/eddie/Documents/kodi-build/build/lib/pkgconfig /usr/bin/pkg-config --libs --static libavcodec`
+  avcodec=`PKG_CONFIG_PATH=/home/eddie/Documents/kodi-build/build/lib/pkgconfig /usr/bin/pkg-config --libs --static libavformat`
+  avfilter=`PKG_CONFIG_PATH=/home/eddie/Documents/kodi-build/build/lib/pkgconfig /usr/bin/pkg-config --libs --static libavfilter`
+  avutil=`PKG_CONFIG_PATH=/home/eddie/Documents/kodi-build/build/lib/pkgconfig /usr/bin/pkg-config --libs --static libavutil`
+  swscale=`PKG_CONFIG_PATH=/home/eddie/Documents/kodi-build/build/lib/pkgconfig /usr/bin/pkg-config --libs --static libswscale`
+  swresample=`PKG_CONFIG_PATH=/home/eddie/Documents/kodi-build/build/lib/pkgconfig /usr/bin/pkg-config --libs --static libswresample`
+  gnutls=`PKG_CONFIG_PATH=/lib/pkgconfig/ /usr/bin/pkg-config  --libs-only-l --static --silence-errors gnutls`
+  $@ $avcodec $avformat $avcodec $avfilter $swscale $swresample -lpostproc $gnutls
+else
+  $@
+fi

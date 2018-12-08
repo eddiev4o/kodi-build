@@ -1,0 +1,2 @@
+/usr/bin/ar qc peripherals_dialogs.a  CMakeFiles/peripherals_dialogs.dir/GUIDialogPeripherals.cpp.o CMakeFiles/peripherals_dialogs.dir/GUIDialogPeripheralSettings.cpp.o
+/usr/bin/ranlib peripherals_dialogs.a

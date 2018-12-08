@@ -1,0 +1,2 @@
+/usr/bin/ar qc video_windows.a  CMakeFiles/video_windows.dir/GUIWindowFullScreen.cpp.o CMakeFiles/video_windows.dir/GUIWindowVideoBase.cpp.o CMakeFiles/video_windows.dir/GUIWindowVideoNav.cpp.o CMakeFiles/video_windows.dir/GUIWindowVideoPlaylist.cpp.o CMakeFiles/video_windows.dir/VideoFileItemListModifier.cpp.o
+/usr/bin/ranlib video_windows.a

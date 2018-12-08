@@ -1,0 +1,2 @@
+/usr/bin/ar qc cores.a  CMakeFiles/cores.dir/DataCacheCore.cpp.o CMakeFiles/cores.dir/FFmpeg.cpp.o CMakeFiles/cores.dir/VideoSettings.cpp.o
+/usr/bin/ranlib cores.a

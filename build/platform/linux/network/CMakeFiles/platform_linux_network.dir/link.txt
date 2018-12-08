@@ -1,0 +1,2 @@
+/usr/bin/ar qc platform_linux_network.a  CMakeFiles/platform_linux_network.dir/NetworkLinux.cpp.o CMakeFiles/platform_linux_network.dir/ZeroconfAvahi.cpp.o CMakeFiles/platform_linux_network.dir/ZeroconfBrowserAvahi.cpp.o
+/usr/bin/ranlib platform_linux_network.a

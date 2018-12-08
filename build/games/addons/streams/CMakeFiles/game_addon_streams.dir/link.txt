@@ -1,0 +1,2 @@
+/usr/bin/ar qc game_addon_streams.a  CMakeFiles/game_addon_streams.dir/GameClientStreamAudio.cpp.o CMakeFiles/game_addon_streams.dir/GameClientStreams.cpp.o CMakeFiles/game_addon_streams.dir/GameClientStreamSwFramebuffer.cpp.o CMakeFiles/game_addon_streams.dir/GameClientStreamVideo.cpp.o
+/usr/bin/ranlib game_addon_streams.a

@@ -1,0 +1,7 @@
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/install/strip.dir
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/edit_cache.dir
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/ffmpeg.dir
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/list_install_components.dir
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/install/local.dir
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/rebuild_cache.dir
+/home/eddie/Documents/kodi-build/build/ffmpeg/src/ffmpeg-build/CMakeFiles/install.dir

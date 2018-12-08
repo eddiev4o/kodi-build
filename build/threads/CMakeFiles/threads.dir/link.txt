@@ -1,0 +1,2 @@
+/usr/bin/ar qc threads.a  CMakeFiles/threads.dir/Atomics.cpp.o CMakeFiles/threads.dir/Event.cpp.o CMakeFiles/threads.dir/Thread.cpp.o CMakeFiles/threads.dir/Timer.cpp.o CMakeFiles/threads.dir/SystemClock.cpp.o
+/usr/bin/ranlib threads.a

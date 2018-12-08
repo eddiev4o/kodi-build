@@ -1,0 +1,2 @@
+/usr/bin/ar qc games_controller.a  CMakeFiles/games_controller.dir/Controller.cpp.o CMakeFiles/games_controller.dir/ControllerFeature.cpp.o CMakeFiles/games_controller.dir/ControllerLayout.cpp.o CMakeFiles/games_controller.dir/ControllerManager.cpp.o CMakeFiles/games_controller.dir/ControllerTopology.cpp.o CMakeFiles/games_controller.dir/ControllerTranslator.cpp.o
+/usr/bin/ranlib games_controller.a

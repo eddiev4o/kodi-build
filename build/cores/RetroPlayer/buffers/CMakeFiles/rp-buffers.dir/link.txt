@@ -1,0 +1,2 @@
+/usr/bin/ar qc rp-buffers.a  CMakeFiles/rp-buffers.dir/BaseRenderBuffer.cpp.o CMakeFiles/rp-buffers.dir/BaseRenderBufferPool.cpp.o CMakeFiles/rp-buffers.dir/RenderBufferManager.cpp.o CMakeFiles/rp-buffers.dir/RenderBufferOpenGLES.cpp.o CMakeFiles/rp-buffers.dir/RenderBufferPoolOpenGLES.cpp.o CMakeFiles/rp-buffers.dir/RenderBufferOpenGL.cpp.o CMakeFiles/rp-buffers.dir/RenderBufferPoolOpenGL.cpp.o
+/usr/bin/ranlib rp-buffers.a

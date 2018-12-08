@@ -1,0 +1,2 @@
+/usr/bin/ar qc peripheral_bus_virtual.a  CMakeFiles/peripheral_bus_virtual.dir/PeripheralBusAddon.cpp.o CMakeFiles/peripheral_bus_virtual.dir/PeripheralBusApplication.cpp.o CMakeFiles/peripheral_bus_virtual.dir/PeripheralBusCEC.cpp.o
+/usr/bin/ranlib peripheral_bus_virtual.a

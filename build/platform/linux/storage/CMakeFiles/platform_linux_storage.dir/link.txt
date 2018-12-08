@@ -1,0 +1,2 @@
+/usr/bin/ar qc platform_linux_storage.a  CMakeFiles/platform_linux_storage.dir/LinuxStorageProvider.cpp.o CMakeFiles/platform_linux_storage.dir/UDisksProvider.cpp.o CMakeFiles/platform_linux_storage.dir/UDisks2Provider.cpp.o CMakeFiles/platform_linux_storage.dir/UDevProvider.cpp.o
+/usr/bin/ranlib platform_linux_storage.a

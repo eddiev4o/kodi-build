@@ -1,0 +1,2 @@
+/usr/bin/ar qc pvr_timers.a  CMakeFiles/pvr_timers.dir/PVRTimerInfoTag.cpp.o CMakeFiles/pvr_timers.dir/PVRTimers.cpp.o CMakeFiles/pvr_timers.dir/PVRTimerType.cpp.o
+/usr/bin/ranlib pvr_timers.a

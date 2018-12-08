@@ -1,0 +1,2 @@
+/usr/bin/ar qc profiles_windows.a  CMakeFiles/profiles_windows.dir/GUIWindowSettingsProfile.cpp.o
+/usr/bin/ranlib profiles_windows.a
